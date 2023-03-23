@@ -9,7 +9,7 @@ Projects we've done with DepthAI. These can be anything from "here's some code a
 
 The following list isn't exhaustive (as we randomly add experiments and we may forget to update this list):
 
-## Gaze Estimation ([here](https://github.com/luxonis/depthai-experiments/tree/master/gaze-estimation#gaze-estimation))
+## Gaze Estimation ([here](./apps/gaze-estimation))
 
 [![Gaze Example Demo](https://user-images.githubusercontent.com/5244214/106155937-4fa7bb00-6181-11eb-8c23-21abe12f7fe4.gif)](https://user-images.githubusercontent.com/5244214/106155520-0f483d00-6181-11eb-8b95-a2cb73cc4bac.mp4)
 
